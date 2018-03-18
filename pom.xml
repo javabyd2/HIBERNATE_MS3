@@ -40,7 +40,6 @@
             <artifactId>hibernate-core</artifactId>
             <version>5.2.15.Final</version>
         </dependency>
-
     </dependencies>
 
     <properties>
