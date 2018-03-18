@@ -56,7 +56,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.sda.jdbc.Main</mainClass>
+                            <mainClass>com.sda.hibernate.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
